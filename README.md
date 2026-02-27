@@ -1,2 +1,4 @@
 # website
-The website of huddletlak to configure everything
+
+The website of huddletlak to configure everything. It contains the code for the website itself, as well as some documentation and resources for developers working on the website. The website is a crucial part of huddletalk, and is responsible for providing a user interface for configuring and managing the different parts of huddletalk. It uses services and apis located in the backend to manage the state of the different parts of huddletalk, and provides a user-friendly interface for managing the project.
+It is also in rust using the Dioxus framework, and is a full stack application that uses the same codebase for both the frontend and backend of the website. This allows for a more seamless development experience, and makes it easier to manage the different parts of the website. 
